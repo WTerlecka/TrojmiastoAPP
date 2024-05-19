@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TrojmiastoAPP</string>
+    <string name="welcome_message">Witaj w aplikacji Trójmiasto APP! Wybierz, które miasto chciałbyś zwiedzić!</string>
+    <string name="gdansk">Gdańsk</string>
+    <string name="gdynia">Gdynia</string>
+    <string name="sopot">Sopot</string>
+    <string name="gdansk_attraction_1">Stare Miasto</string>
+    <string name="gdansk_attraction_2">Muzeum II Wojny Światowej</string>
+    <string name="gdansk_attraction_3">Żuraw</string>
+    <string name="gdansk_attraction_4">Bazylika Mariacka</string>
+    <string name="gdansk_attraction_5">Fontanna Neptuna</string>
+    <string name="gdynia_attraction_1">Akwarium Gdyńskie</string>
+    <string name="gdynia_attraction_2">Muzeum Emigracji</string>
+    <string name="gdynia_attraction_3">Skwer Kościuszki</string>
+    <string name="gdynia_attraction_4">ORP Błyskawica</string>
+    <string name="gdynia_attraction_5">Teatr Muzyczny</string>
+    <string name="sopot_attraction_1">Molo</string>
+    <string name="sopot_attraction_2">Krzywy Domek</string>
+    <string name="sopot_attraction_3">Opera Leśna</string>
+    <string name="sopot_attraction_4">Plaża Sopot</string>
+    <string name="sopot_attraction_5">Latarnia Morska</string>
+</resources>
